@@ -1,5 +1,5 @@
-With aws-sdk-client-mock version of 0.6.2 when we run tests with `npm test`, tests run successfully
-But when we change version to 1.0.0, the testing fails with below error
+With aws-sdk-client-mock version of `0.6.2` when we run tests with `npm test`, tests run successfully
+But when we change version to `1.0.0`, the testing fails with below error
 
 > aws-sdk-client-mock-issue-reproduce@1.0.0 test /home/bandl2k/migration/nodejsplayground/aws-sdk-client-mock-issue-reproduce
 > NODE_OPTIONS=--experimental-vm-modules jest
